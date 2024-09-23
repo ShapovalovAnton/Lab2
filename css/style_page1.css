@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(57, 252, 3);
+    color: rgb(0, 128, 255);
+}
+
+a{
+    color: darkgreen;
+}
+
+h1,h2{
+    text-align: center;
+}

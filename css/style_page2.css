@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(57, 252, 3);
+}
+
+a{
+  color: darkgreen;
+}
+
+h1,h2{
+    text-align: center;
+}
+span{
+    color:red;
+    font-style: italic;
+}
+
+.img_left{
+    float: left;
+    width: 20%;
+}
+
+.img_right{
+    float: right;
+    width: 20%;
+}
+
+.light_green_underline_text
+{
+    color:rgb(26, 169, 10);
+    text-decoration: underline;
+}
+
+.underline_text
+{
+    text-decoration: underline;
+}
